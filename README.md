@@ -11,7 +11,6 @@ This project is practicing creating a website based off of specs given by Codeca
 
 ## Technologies ##
 - Visual Studio Code 1.52.1 
-- Node.js 12.14.1
-- JavaScript V8 engine 8.3.110.13-electron.0
+- HTML5
 - CSS
 
