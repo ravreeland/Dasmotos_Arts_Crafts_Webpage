@@ -1,0 +1,42 @@
+/* all text is in Helvetica, adding to body*/
+body {
+    font-family: Helvetica;
+}
+
+/* bolding all the elements that need to be bolded */
+.pageHead, .brushHead, .frameHead, .paintHead, .priceTag, figcaption {
+    font-weight: bold;
+}
+
+.pageHead {
+    color: khaki;
+    background-image: url("./Images/pattern.webp");
+    font-size: 100px;
+    text-align: center;
+}
+
+/* all h2 headers same size and color*/
+h2 {
+    color: white;
+    font-size: 32px;
+}
+
+.brushHead {
+    background-color: mediumspringgreen;
+}
+
+.frameHead {
+    background-color: lightcoral;
+}
+ .paintHead {
+    background-color: skyblue;
+ }
+
+ .priceTag {
+    background-color: transparent;
+    color: blue;
+ }
+
+ figure{
+     margin: 0px;
+ }
